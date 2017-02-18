@@ -3,9 +3,12 @@
  */
 public class PruebaLibroCalificaciones {
     public static void main(String args[]){
-        LibroCalificaciones miLibroCalificaciones = new LibroCalificaciones("CS101 Introduccion a la programacion en java");
+        //LibroCalificaciones miLibroCalificaciones = new LibroCalificaciones("CS101 Introduccion a la programacion en java");
 
-        miLibroCalificaciones.mostrarMensaje();
-        miLibroCalificaciones.determinarPromedioClase();
+        //miLibroCalificaciones.mostrarMensaje();
+        //miLibroCalificaciones.determinarPromedioClase();
+        int arreglo[];
+        arreglo = new int[10];
+
     }
 }
